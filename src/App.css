@@ -13,16 +13,7 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+  
 
 .App-link {
   color: #61dafb;
@@ -36,3 +27,18 @@
     transform: rotate(360deg);
   }
 }
+
+.netflix {
+  background-image:
+  url(
+  "https://assets.nflxext.com/ffe/siteui/vlv3/3d6cf7c4-ad17-457a-b6cf-ea952926ba74/919bfe65-1ecc-43dd-8e5e-4fc6f0f91322/IE-en-20230206-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+  background-size: "cover";
+  height: 100vh;
+  /* margin-top: -70px; */
+  font-size:50px;
+  background-repeat:no-repeat;
+  }
+  .netflixLogo{
+    height: 20vh;
+    margin-left:  10px;
+  }
